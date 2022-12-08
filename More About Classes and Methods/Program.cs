@@ -60,7 +60,7 @@
             Make = make;
             Model = model;
             Year = year;
-            Color = color;
+            Color = color; 
         }
         */
 
